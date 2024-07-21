@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Netflix.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is Eleven?",
+      "answers": ["Hero", "Villain", "Friend"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is Netflix?",
+      "answers": ["Stream", "Cable", "DVD"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who is Joe Exotic?",
+      "answers": ["Zookeeper", "Singer", "Chef"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Bird Box?",
+      "answers": ["Movie", "Series", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is BoJack?",
+      "answers": ["Horse", "Dog", "Cat"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Bridgerton?",
+      "answers": ["Series", "Movie", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Sabrina?",
+      "answers": ["Witch", "Fairy", "Elf"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Narcos?",
+      "answers": ["Series", "Movie", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Lucifer?",
+      "answers": ["Devil", "Angel", "Demon"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Witcher?",
+      "answers": ["Series", "Movie", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Geralt?",
+      "answers": ["Witcher", "Knight", "King"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ozark?",
+      "answers": ["Series", "Movie", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Piper?",
+      "answers": ["Prisoner", "Guard", "Warden"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Crown?",
+      "answers": ["Series", "Movie", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Claire?",
+      "answers": ["Queen", "Witch", "Singer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Roma?",
+      "answers": ["Movie", "Series", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Klaus?",
+      "answers": ["Santa", "Elf", "Witch"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is You?",
+      "answers": ["Series", "Movie", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Joe?",
+      "answers": ["Stalker", "Detective", "Doctor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Witcher based on?",
+      "answers": ["Book", "Game", "Movie"],
       "correctAnswerIndex": 0
     }
   ]
